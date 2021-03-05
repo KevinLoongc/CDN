@@ -82,6 +82,10 @@
     background: rgba(255,255,255,.3);
 }
 
+.layout_post>#sidebar.author-avatar{
+    background: rgba(255,255,255,.3);
+}
+
 
 
 /* 页脚半透明 */
