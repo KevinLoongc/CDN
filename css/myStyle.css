@@ -136,8 +136,23 @@ img {
 /* 评论icon */
 .tk-tag-green {
     border-radius: 12px!important;
-    border: 0 solid #e1f3d8!important;
+    border: 0px solid #e1f3d8!important;
     font-size: .5rem!important;
     background-color: #67c23a21!important;
 }
 
+
+/* 博主昵称颜色 */
+.author-info__name {
+    color: #7BC0E8;
+}
+
+/* 首页中间打字效果上方 */
+#page-header #site_title {
+    color: #80bdab;
+}
+
+/*页脚a标签字体颜色*/
+#footer-wrap a {
+    color: #00c4b6;
+}
