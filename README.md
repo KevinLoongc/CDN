@@ -8,10 +8,11 @@ CDN的全称是Content Delivery Network，即内容分发网络。CDN是构建�
 
 ## 通过jsDelivr引用资源
 
-使用方法：https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
+使用方法：`https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径`
 例如：
-
-https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@1.0/images/trhx.png
-https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@2.0.1/css/style.css
-https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.3//The%20Pet%20Girl%20of%20Sakurasou.mp4
+```bash
+https://cdn.jsdelivr.net/gh/LKevin98/CDN@1.0.0/css/myStyle.css
+https://cdn.jsdelivr.net/gh/LKevin98/CDN@1.1.0/css/CustomEmoticons.json
+https://cdn.jsdelivr.net/gh/LKevin98/CDN@1.1.0/img/blog_background/4610b912c8fcc3ce005c05d19c45d688d53f20b0.png
+```
 注意：版本号不是必需的，是为了区分新旧资源，如果不使用版本号，将会直接引用最新资源
